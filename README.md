@@ -3,6 +3,7 @@
 
 Metas del proyecto:
 Tener una config para TF2 igual o mejor que Masterconfig en Español!
+Dar una interfaz bonita para usuarios novatos.
 
 Para ver en qué estoy trabajando puedes ver esta página:
 https://github.com/users/TheKing1543/projects/1
