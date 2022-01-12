@@ -1,5 +1,5 @@
 # KingConfig
-¡Configuración de TF2 completamente en Español y actualizada continuamente!
+¡Configuración de TF2 completamente en Español e Inglés y actualizada continuamente!
 
 Metas del proyecto:
 Tener una config mejor que cualquiera que podría imaginarlo.
