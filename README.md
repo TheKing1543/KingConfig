@@ -2,7 +2,7 @@
 ¡Configuración de TF2 completamente en Español y actualizada continuamente!
 
 Metas del proyecto:
-Tener una config para TF2 igual o mejor que Masterconfig en Español!
+Tener una config mejor que cualquiera que podría imaginarlo.
 Dar una interfaz bonita para usuarios novatos.
 
 - Features:
@@ -11,6 +11,16 @@ Soporte para animaciones custom.
 Varias configuraciones gráficas en un solo archivo.
 Configurable via consola dentro del juego.
 
+///////////////////////////////////////////
+ENG
 
-Para ver en qué estoy trabajando puedes ver esta página:
-https://github.com/users/TheKing1543/projects/1
+¡TF2 CONFIG ON BOTH SPANISH AND ENGLISH, UPDATED DAYLY!
+
+PROJECT GOAL:
+Have a better config than anyone could posibbly imagine.
+Give a good console interface to new users.
+
+- Features:
+Custom animations on casual.
+Multiple graphic configs.
+You can config in-game.
