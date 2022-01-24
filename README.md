@@ -12,9 +12,10 @@ Varias configuraciones gráficas en un solo archivo.
 Configurable via consola dentro del juego.
 
 ///////////////////////////////////////////
+
 ENG
 
-¡TF2 CONFIG ON BOTH SPANISH AND ENGLISH, UPDATED DAYLY!
+¡TF2 CONFIG ON BOTH SPANISH AND ENGLISH, CONSTANTLY UPDATED!
 
 PROJECT GOAL:
 Have a better config than anyone could posibbly imagine.
